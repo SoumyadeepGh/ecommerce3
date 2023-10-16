@@ -15,6 +15,9 @@ tech stack used = react, javascript, scss and css.
 
 DO STAR THE REPO 🌟
 
+# Live Demo Link
+https://651af59740231d16bb2c21f5--elegant-choux-f267ee.netlify.app/
+
 
 # Getting Started with Create React App
 
